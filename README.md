@@ -1,1 +1,5 @@
-# Hello-world-problem
+#include<stdio.h>
+void main()
+{
+printf("Hello world");
+}
